@@ -1,0 +1,8 @@
+<!-- media/leaves-pattern.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <!-- Smaller leaf shapes -->
+    <path d="M25,25 Q50,10 75,25 Q100,40 75,55 Q50,70 25,55 Q0,40 25,25" fill="#4CAF50" opacity="0.1"/>
+    <path d="M100,50 Q125,35 140,50 Q150,65 125,75 Q100,85 75,75 Q65,60 100,50" fill="#8BC34A" opacity="0.1"/>
+    <path d="M50,100 Q75,85 100,100 Q115,115 90,125 Q65,135 40,125 Q35,110 50,100" fill="#388E3C" opacity="0.1"/>
+    <path d="M125,90 Q140,80 145,95 Q150,110 135,120 Q120,130 105,120 Q100,105 125,90" fill="#689F38" opacity="0.1"/>
+</svg>
